@@ -1,2 +1,2 @@
 FROM almalinux:latest
-ENTRYPOINT ['ping', 'google.com']
+ENTRYPOINT ["ping", "google.com"]
