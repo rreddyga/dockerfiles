@@ -8,6 +8,7 @@ ARG version=1.0.0 \
     author="RAMANA REDDY" \
     duration="2hrs"
 RUN echo "This is version ${version} of the image ${description} created by ${author} for the course ${course} with duration ${duration}" > /index.html
+CMD [ "sleep", "100" ]
 
 
 
