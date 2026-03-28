@@ -12,4 +12,3 @@ LABEL maintainer="RAMANA REDDY" \
 ENV MONGO_URL="mongodb-dev.sanathananelaform.online" \
     MONGO_USERNAME="admin" \
     MONGO_PASSWORD="admin123" \
- 
